@@ -55,7 +55,7 @@ int main(){
 	while (true){
 		cout << "Do you want to do another calculation? y or n:\t";
 		cin >> answer;
-		if (answer == "y" || "yes"){
+		if (answer == "y"){
 			cout << "Please enter the first number :\t";
 			cin >> a;
 			cout << "Please enter the second number:\t";
